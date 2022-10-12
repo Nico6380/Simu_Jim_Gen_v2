@@ -1,0 +1,15 @@
+main.c:146:5:main	8	static
+main.c:300:6:SystemClock_Config	72	static
+main.c:338:13:MX_TIM2_Init	32	static
+main.c:383:13:MX_USART1_UART_Init	8	static
+main.c:416:13:MX_GPIO_Init	40	static
+main.c:476:6:HAL_UART_RxCpltCallback	16	static
+main.c:519:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:546:6:Limpia_Recep	16	static
+main.c:576:6:Limpia_Pr	16	static
+main.c:587:5:Valida_Cksum	16	static
+main.c:616:5:Lectura_Trama	16	static
+main.c:656:6:Genera_Trama_ACK_ERROR	16	static
+main.c:728:5:Valida_Entradas	16	static
+main.c:746:6:Envio_tx	8	static
+main.c:767:6:Error_Handler	4	static
